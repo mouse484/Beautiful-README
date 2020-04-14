@@ -1,4 +1,4 @@
-# beautiful README
+<h1 align="center">Beautiful README</h1>
 
 Notes for a beautiful README. The following is a fictional project.
 
