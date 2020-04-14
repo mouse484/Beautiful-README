@@ -1,6 +1,7 @@
 <h1 align="center">Beautiful README</h1>
 
-Notes for a beautiful README. The following is a fictional project.
+## 📃Introduction
+A beautiful README note. This README is fictional.
 
 # Installation
 Install [Beautiful README](https://www.npmjs.com/package/beautiful-readme) using [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/).
